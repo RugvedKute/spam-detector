@@ -35,7 +35,7 @@ export default function Contact({
                 <h1 className="text-xl font-medium mt-2">
                   Email: {singleContact.email}
                 </h1>
-                <h1 className="text-xl font-medium mt-2 ">
+                <h1 className="text-xl font-medium mt-2">
                   Phone No: {singleContact.phoneNo}
                 </h1>
                 <h1 className="text-xl font-medium mt-2">
